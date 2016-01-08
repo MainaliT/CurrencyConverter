@@ -1,0 +1,9 @@
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+F:\Fifth Semester\USER INTERFACE AND DESIGN\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
